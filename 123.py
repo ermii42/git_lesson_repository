@@ -1,2 +1,1 @@
-print("My first Git program")
-print('mm')
+print("My first Git program!!")
